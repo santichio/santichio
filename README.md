@@ -5,9 +5,9 @@
 
 ## About-me
 
-[pt-br] Atualmente tenho 27 anos, sou dev full stack e atualmente trabalho no LAB de uma rede de varejo, a Supermercdos Pague Menos. Faço programa desde os 14 anos mas comcei a trbalhar como dev aos 23, aprendi tudo que eu sei de forma autoditada, mas em 2024 ingressei na faculdade de Engenharia de Software na FIAP, e estou no primeiro periodo (turma 1ESOB-2024).
+[pt-br] Atualmente tenho 27 anos, sou dev full stack e atualmente trabalho no LAB de uma rede de varejo, a Supermercdos Pague Menos. Faço programa desde os 14 anos mas comcei a trbalhar como dev aos 23, aprendi tudo que eu sei de forma autoditada, mas em 2024 ingressei na faculdade de Engenharia de Software na FIAP, e estou no primeiro periodo (turma 1ESOA-2025).
 
-[en-us] I'm currently 27 years old, I'm a full stack dev and I currently work in the LAB of a retail chain, Supermercdos Pague Menos. I've been doing programming since I was 14 but I started working as a dev at 23, I learned everything I know self-taught, but in 2024 I joined the Software Engineering faculty at FIAP, and I'm in the first period (class 1ESOB-2024).
+[en-us] I'm currently 27 years old, I'm a full stack dev and I currently work in the LAB of a retail chain, Supermercdos Pague Menos. I've been doing programming since I was 14 but I started working as a dev at 23, I learned everything I know self-taught, but in 2024 I joined the Software Engineering faculty at FIAP, and I'm in the first period (class 1ESOA-2025).
 
 ## What i know
 
